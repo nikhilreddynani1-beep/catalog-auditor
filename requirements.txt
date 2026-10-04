@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.20.0
+keras==3.13.2
+scikit-learn==1.6.1
+pandas
+numpy
+pillow
+joblib
